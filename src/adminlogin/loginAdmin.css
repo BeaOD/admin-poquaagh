@@ -1,0 +1,73 @@
+
+/* .container{
+background-color: aqua;
+} */
+
+  form{
+    margin-top: 60px;
+   border-color: black;
+   border-left: 2px;
+   border-style: black 1px;
+  }
+  
+  div.textform{
+      height:350px;
+      width:350px;
+      text-align: center;
+      padding-left: 10px;
+      padding-right: 10px;
+      
+    }
+  
+    input{
+      text-align: center;
+      width:350px;
+      height:25px;
+      background-color: rgb(169, 142, 194);
+    }
+  
+    h4{
+     
+      color: purple;
+      border: none;
+      font-size: 30px;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    .forgotp{
+        font-size: small;
+        text-align: left;
+        font-family: Arial, Helvetica, sans-serif ;
+    }
+  
+    button{
+      background-color: rgb(107, 65, 107);
+      border: none;
+      height: 30px;
+    }
+  
+    /* .imgma{
+      
+      opacity: 0;
+      transition-duration: 1.25s;
+      
+  }
+  
+  .imgma:hover{
+      opacity: 1;
+  }
+  
+ 
+  
+  .signup{
+      position: right;
+      text-align: center; 
+      color: white;
+      background-color: black;
+      height: 30px;
+      font-family: Arial, Helvetica, sans-serif ;
+      
+      
+  }
+   */
+  
